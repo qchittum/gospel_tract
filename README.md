@@ -72,7 +72,8 @@ Access your site:
 
 Your site will be available at https://qchittum.github.io/gospel_tract (try .git at the end if this doesn't work).
 
-Contributing
+## Contributing
+
 If you would like to contribute to this project, please follow these steps:
 
 Fork the repository.
